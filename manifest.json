@@ -1,0 +1,24 @@
+{
+  "name": "Calma-Tech",
+  "short_name": "Calma-Tech",
+  "description": "Tu espacio seguro para procesar emociones y encontrar calma interior",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f1a",
+  "theme_color": "#7b6ff0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230d0f1a'/><path d='M96 30C72 30 54 48 54 72c0 15 7.2 28.2 18 36.6V117a6 6 0 006 6h36a6 6 0 006-6v-8.4c10.8-8.4 18-21.6 18-36.6 0-24-18-42-42-42z' stroke='%237b6ff0' stroke-width='6' fill='none' stroke-linecap='round'/><path d='M78 162h36M84 117v30M108 117v30' stroke='%237b6ff0' stroke-width='5' stroke-linecap='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230d0f1a'/><path d='M256 80C208 80 170 118 170 166c0 37 17.6 69.8 44 90.4V290a14 14 0 0014 14h56a14 14 0 0014-14v-33.6c26.4-20.6 44-53.4 44-90.4 0-48-38-86-86-86z' stroke='%237b6ff0' stroke-width='12' fill='none' stroke-linecap='round'/><path d='M214 432h84M228 304v80M284 304v80' stroke='%237b6ff0' stroke-width='11' stroke-linecap='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["health", "lifestyle"],
+  "lang": "es"
+}
